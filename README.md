@@ -15,7 +15,7 @@ A modern, lightweight web framework for building WebAssembly applications with Z
 
 ### Prerequisites
 
-- [Zig](https://ziglang.org/) (latest stable version)
+- [Zig](https://ziglang.org/) (version 0.14)
 - Basic knowledge of Zig programming
 
 ### Installation
